@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:Lavertis/task-tracker-api-spring.git
+[submodule "front"]
+	path = front
+	url = git@github.com:Lavertis/task-tracker-react.git
